@@ -43,10 +43,7 @@ export default function App() {
   return (
     <div className="App">
       <h1>Emoji interpreter</h1>
-      <input
-        onChange={clickfun}
-        style={{ padding: "2rem", fontSize: "2rem" }}
-      />
+      <input onChange={clickfun} />
       <h2>{meaning}</h2>
 
       <h3> Emojis we have</h3>
