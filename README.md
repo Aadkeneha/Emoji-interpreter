@@ -1,2 +1,2 @@
 # Emoji-interpreter
-Created with CodeSandbox
+Created with CodeSandbox using ReactJs. It interprets the meaning of an emoji 😃
